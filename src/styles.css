@@ -1,0 +1,73 @@
+.App {
+  font-family: sans-serif;
+}
+.create {
+  float: right;
+  color: #fff;
+  background-color: #007bff;
+  border-color: #007bff;
+  border-radius: 22px;
+  width: 212px;
+  border: none;
+  padding: 6px;
+}
+
+.creates a {
+  font-size: 19px;
+  color: #343434;
+}
+
+.Navbar {
+  padding-top: 6px;
+  box-shadow: 0 3px 7px 2px #dbdbdb94;
+  width: 96%;
+  margin: 32px auto 0;
+  border-radius: 6px;
+  padding: 6px 49px;
+  height: 80px;
+}
+li {
+  list-style: none;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 0px 0px;
+  align-items: center;
+  margin: 0;
+}
+img {
+  width: 123px;
+}
+.Contact {
+  margin-top: 60px;
+}
+
+.Create {
+  margin-top: 60px;
+}
+:focus {
+  outline: none !important;
+}
+input[type="submit"] {
+  background: #3999e9;
+  border: none;
+  height: 41px;
+  color: #ffff;
+  width: 50%;
+}
+form.createadd {
+  margin-top: 62px;
+  box-shadow: 0 3px 7px 2px #dbdbdb94;
+  padding: 23px;
+  border-radius: 5px;
+}
+
+.createadd input {
+  display: block;
+  margin: 0 auto 22px;
+  border: none;
+  border-bottom: 1px solid;
+  width: 96%;
+}
